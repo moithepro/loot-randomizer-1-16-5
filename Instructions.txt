@@ -1,0 +1,16 @@
+****DO NOT TOUCH ANYTHING IN THIS DIRECTORY EXCEPT FOR THE .bat files****
+
+***THIS DATA PACK IS FOR MINECRAFT 1.16.5***
+
+**YOU NEED PYTHON 3.6+ TO RUN THE RANDOMIZER**
+
+*THE RANDOMIZER WAS TESTED WITH PYTHON 3.9*
+
+INSTRUCTIONS:
+	Move this directory to the datapacks folder of your minecraft world, run the .bat file, wait for it to finish and reload your world.
+
+.bat FILES:
+	start-loot-randomizer.bat:
+		Randomizes the loot.
+	reset-loot-randomizer.bat:
+		Resets the loot. (Back to vanilla settings)
